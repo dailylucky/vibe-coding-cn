@@ -83,31 +83,31 @@
 
 ## 📋 器
 
-- [**Claude Opus 4.5**](https://claude.ai/new)，在 Claude Code 中使用 很贵，但是尼区ios订阅要便宜几百人民币，快+效果好，顶中顶中顶，有 cli 和 ide 插件
-- [**gpt-5.1-codex.1-codex (xhigh)**](https://chatgpt.com/codex/)，在 Codex CLI 中使用，顶中顶，除了慢其他没得挑，大项目复杂逻辑唯一解，买chatgpt会员就能用，有 cli 和 ide 插件
-- [**Droid**](https://factory.ai/news/terminal-bench)，这个里面的 Claude Opus 4.5比 Claude Code 还强，顶，有 cli
-- [**Kiro**](https://kiro.dev/)，这个里面的 Claude Opus 4.5 现在免费，就是cli有点拉，看不到正在运行的情况有客户端和 cli
-- [**gemini**](https://geminicli.com/)，目前免费用，干脏活，用 Claude Code 或者 codex 写好的脚本，拿他来执行可以，整理文档和找思路就它了有客户端和 cli
-- [**antigravity**](https://antigravity.google/)，谷歌的，可以免费用 Claude Opus 4.5 和 gemini 3.0 pro 大善人
-- [**aistudio**](https://aistudio.google.com/prompts/new_chat)，谷歌家的，免费用 gemini 3.0 pro 和 Nano Banana
-- [**gemini-enterprise**](https://cloud.google.com/gemini-enterprise)，谷歌企业版，现在能免费用 Nano Banana pro
-- [**augment**](https://app.augmentcode.com/)，它的上下文引擎和提示词优化按钮真的神中神中神，小白就用它就行了，点击按钮自动帮你写好提示词，懒人必备
-- [**cursor**](https://cursor.com/)，已经占领用户心智高地，人尽皆知
+- [**Claude Opus 4.5**](https://claude.ai/new)，在 Claude Code 中使用，很贵，但是尼区 iOS 订阅要便宜几百人民币，快 + 效果好，顶中顶，有 CLI 和 IDE 插件
+- [**gpt-5.1-codex.1-codex (xhigh)**](https://chatgpt.com/codex/)，在 Codex CLI 中使用，顶中顶，除了慢其他没得挑，大项目复杂逻辑唯一解，买 ChatGPT 会员就能用，有 CLI 和 IDE 插件
+- [**Droid**](https://factory.ai/news/terminal-bench)，这里面的 Claude Opus 4.5 体感比 Claude Code 原生还强，顶，有 CLI
+- [**Kiro**](https://kiro.dev/)，这里面的 Claude Opus 4.5 目前免费，就是 CLI 看不到正在运行的情况，没有找到恢复对话，有客户端和 CLI
+- [**Gemini CLI**](https://geminicli.com/)，目前免费用，干脏活用，Claude Code 或 Codex 写好的脚本拿它来执行可以，整理文档和找思路也合适，有客户端和 CLI
+- [**antigravity**](https://antigravity.google/)，谷歌的，可以免费用 Claude Opus 4.5 和 Gemini 3.0 Pro，大善人
+- [**AI Studio**](https://aistudio.google.com/prompts/new_chat)，谷歌家的，免费用 Gemini 3.0 Pro 和 Nano Banana
+- [**Gemini Enterprise**](https://cloud.google.com/gemini-enterprise)，谷歌企业版，目前能免费用 Nano Banana Pro
+- [**Augment**](https://app.augmentcode.com/)，上下文引擎和提示词优化按钮神中神，新手直接用它，点按钮自动帮你写好提示词，懒人必备
+- [**Cursor**](https://cursor.com/)，已经占领用户心智高地，人尽皆知
 - [**Windsurf**](https://windsurf.com/)，新用户有免费额度
-- **GitHub Copilot**，没用过
-- [**kimik2**](https://www.kimi.com/)，国产，还行，干脏活写简单任务用，之前2r一个key，一周1024次调用挺爽
-- [**GLM**](https://bigmodel.cn/)，国产，听说很强，听说和 Claude Sonnet 4 差不多？
-- [**Qwen**](https://qwenlm.github.io/qwen-code-docs/zh/cli/)，国产阿里的，cli有免费额度
-- [**提示词库，直接复制粘贴即可使用**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
+- [**GitHub Copilot**](https://github.com/copilot)，没深度用过
+- [**Kimi K2**](https://www.kimi.com/)，国产，还行，干脏活和简单任务用，之前 2 元一个 key，一周 1024 次调用，性价比高
+- [**GLM**](https://bigmodel.cn/)，国产，听说很强，体感接近 Claude Sonnet 4
+- [**Qwen**](https://qwenlm.github.io/qwen-code-docs/zh/cli/)，阿里出的，CLI 有免费额度
+- [**提示词库（直接复制粘贴即可用）**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
 - [**其他编程工具的系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-- [**Skills制作器（ ai 你下好之后让 ai 用这个仓库按照你的需求生成 Skills 即可）**](https://github.com/yusufkaraaslan/Skill_Seekers)
-- [**元提示词，生成提示词的提示词**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220)
-- [**通用项目架构模板；这个就是框架，复制给ai一键搭好目录结构**](./documents/通用项目架构模板.md) - 提供了多种项目类型的标准目录结构、核心设计原则、最佳实践建议及技术选型参考。
-- [**augment提示词优化器**](https://app.augmentcode.com/)，这个提示词优化是真的好用，强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈推荐
-- [**思维导图神器，让ai生成项目架构的.mmd图复制到这个里面就能可视化查看啦，，提示词在下面的“系统架构可视化生成Mermaid”里面**](https://www.mermaidchart.com/)
-- [**notebooklm，资料ai解读和技术文档放这里可以，听音频看思维导图和 Nano Banana 生成的图片什么的**](https://notebooklm.google.com/)
-- [**zread，ai读仓库神器，复制github仓库链接进去就能分析，减少用轮子的工作量了**](https://zread.ai/)
-- [**元技能 Skills 就是生成 Skills 的 Skills**](./skills/claude-skills/SKILL.md)
+- [**Skills 制作器（下好后让 AI 按你的需求生成 Skills）**](https://github.com/yusufkaraaslan/Skill_Seekers)
+- [**元提示词（生成提示词的提示词）**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220)
+- [**通用项目架构模板**](./documents/通用项目架构模板.md)，一键丢给 AI 就能搭好目录结构
+- [**Augment 提示词优化器**](https://app.augmentcode.com/)，提示词优化是真的好用，强烈推荐
+- [**Mermaid Chart**](https://www.mermaidchart.com/)，架构 / 思维导图可视化，做架构图，序列图的时候复制到这里看
+- [**NotebookLM**](https://notebooklm.google.com/)，资料 AI 解读、听音频、看思维导图、配合 Nano Banana 图片
+- [**Zread**](https://zread.ai/)，AI 读 GitHub 仓库神器，减少造轮子
+- [**元技能：Skills 的 Skills**](./skills/claude-skills/SKILL.md)，就是生成 Skills 的 Skills
 
 ---
 
