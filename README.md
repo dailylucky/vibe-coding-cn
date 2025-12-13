@@ -184,7 +184,8 @@ graph TD
     SP --> Exec[执行: AI 结对编程 + 人类审阅]
     Exec --> Test[自测: 计划内验证 / make test]
     Test --> Progress[progress.md & README 更新]
-    Progress --> Backup[backups/一键备份.sh | 快速备份.py]
+    Progress --> Backup1[backups/一键备份.sh]
+    Progress --> Backup2[backups/快速备份.py]
     prompts-library -->|生成/维护| CP
     documents -->|知识基线| Exec
 ```
