@@ -54,6 +54,8 @@
 
 该思想的核心是构建一个能够**自我优化**的 AI 系统。其递归本质可分解为以下步骤：
 
+> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./i18n/zh/documents/Methodology%20and%20Principles/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
+
 #### 1. 定义核心角色：
 
 *   **α-提示词 (生成器)**: 一个“母体”提示词，其唯一职责是**生成**其他提示词或技能。

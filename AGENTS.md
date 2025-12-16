@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 - 根目录：`README.md` 给出全貌，`Makefile` 封装日常命令，`CONTRIBUTING.md` 说明贡献流程，`LICENSE` 载明协议。保持根目录扁平，避免巨石文件。
-- 多语言 i18n：`i18n/<lang>/` 统一三层结构（documents / prompts / skills）。现有语言：中文 `zh`、英文 `en`、希伯来语 `he`，以及高频使用的西语 `es`、印地语 `hi`、阿语 `ar`、葡语 `pt`、俄语 `ru`、法语 `fr`、德语 `de`、日语 `ja`、韩语 `ko`；新增语言遵循同样层级。
+- 多语言 i18n：`i18n/<lang>/` 统一三层结构（documents / prompts / skills）。现有语言：中文 `zh`、英文 `en`、希伯来语 `he`，以及高频/常用的 `es`、`hi`、`ar`、`pt`、`ru`、`fr`、`de`、`ja`、`ko`、`it`、`tr`、`nl`、`pl`、`id`、`vi`、`th`、`fa`、`uk`、`bn`、`ta`、`ur`、`ms`、`sw`、`ha`；新增语言遵循同样层级。
 - 文档库：`i18n/zh/documents/` 仍是默认中文方法论入口（如 `i18n/zh/documents/Templates and Resources/代码组织.md` 等），新增语言文档按需在对应 `documents/` 下创建并保持同步。
 - 提示词资产：`i18n/zh/prompts/` 按角色拆分（system / assistant / coding / user），`libs/external/prompts-library/` 提供 Excel ↔ Markdown 互转工具与脚本目录，便于批量维护提示词，适合作为“单一真实来源”。
 - 代码与集成：`libs/` 预留核心实现骨架，`common/`、`database/`、`external/` 分别对应通用模型、存储适配与外部依赖登记；新增模块需保持分层边界与单一职责，避免跨层调用。
@@ -160,7 +160,7 @@ When modifying this repository:
 │   ├── zh/{documents,prompts,skills}   # 中文主语料与方法论。
 │   ├── en/{documents,prompts,skills}   # 英文版本资产。
 │   ├── he/{documents,prompts,skills}   # 希伯来语（以色列）。
-│   ├── es|hi|ar|pt|ru|fr|de|ja|ko/{documents,prompts,skills}  # 其他高频语言骨架。
+│   ├── es|hi|ar|pt|ru|fr|de|ja|ko|it|tr|nl|pl|id|vi|th|fa|uk|bn|ta|ur|ms|sw|ha/{documents,prompts,skills}  # 其他常用语言骨架。
 │
 ├── libs/                        # 核心库代码。
 │   ├── common/                  # 通用功能和工具库。
